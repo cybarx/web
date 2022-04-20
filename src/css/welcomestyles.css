@@ -1,0 +1,59 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital@1&family=Josefin+Sans:ital,wght@1,300&family=Karla&family=Ubuntu+Mono&display=swap');
+#start{
+    background-image: url(../assets/cbxbg2.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#cbxlogo{
+   
+    background-repeat: no-repeat;
+    height: 400px;
+}
+#welcometocbx{
+    font-family: 'Alegreya', serif;
+    font-size:50px;
+}
+#welcometocbx2{
+    font-family: 'Alegreya', serif;
+    font-size:50px;
+}
+#welcometocbx3{
+    font-family: 'Alegreya', serif;
+    font-size:70px;
+}
+#about{
+    background-image: url(../assets/cbxdarkbg1.png);
+    background-size: cover;
+    background-attachment: scroll;
+}
+#abouttext{
+    font-family:'Ubuntu Mono', monospace;
+    color:#fd3408;;
+}
+#pageimage1{
+    background-image: url(../assets/cbximage3.png);
+    background-size: cover;
+}
+#pageimage2{
+    background-image: url(../assets/cbximage12.png);
+    background-size: cover;
+}
+#pageimage3{
+    background-image: url(../assets/cbximage2.png);
+    background-size: cover;
+}
+#pageimage4{
+    background-image: url(../assets/cbximage16.png);
+    background-size: cover;
+}
+#services{
+    background-image: url(../assets/cbxdarkbg1.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+footer{
+    background-image: url(../assets/cbxdarkbg1.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
