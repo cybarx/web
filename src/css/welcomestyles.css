@@ -32,27 +32,34 @@
     color:#fd3408;;
 }
 #pageimage1{
-    background-image: url(../assets/cbximage3.png);
+    background-image: url(../assets/infosecawareness.png);
     background-size: cover;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
 }
 #pageimage2{
-    background-image: url(../assets/cbximage12.png);
+    background-image: url(../assets/hwupgrade.png);
     background-size: cover;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
 }
 #pageimage3{
-    background-image: url(../assets/cbximage2.png);
+    background-image: url(../assets/realtime.png);
     background-size: cover;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
 }
 #pageimage4{
-    background-image: url(../assets/cbximage16.png);
+    background-image: url(../assets/vulnassess.png);
     background-size: cover;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
 }
 #services{
-    background-image: url(../assets/cbxdarkbg1.png);
-    background-size: cover;
-    background-attachment: fixed;
-}
-footer{
     background-image: url(../assets/cbxdarkbg1.png);
     background-size: cover;
     background-attachment: fixed;
